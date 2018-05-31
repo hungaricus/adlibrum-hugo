@@ -1,4 +1,4 @@
-baseURL = "https://adlibrum.hu/"
+baseURL = "https://hungaricus.github.io/adlibrum-ananke"
 languageCode = "hu-hu"
 title = "Ad Librum kiadók"
 sectionPagesMenu = "main"
