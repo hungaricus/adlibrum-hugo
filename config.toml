@@ -10,7 +10,7 @@ theme = "ananke"
 title = "Ad Librum kiadók"
 [params]
 background_color_class = "bg-black"
-description = "The last theme you'll ever need. Maybe."
+description = "Az Ad Librum kiadóinak honlapja."
 facebook = "https://facebook.com/adlibrum"
 favicon = ""
 featured_image = "/uploads/Olvasni_menő.jpg"
